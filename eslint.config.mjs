@@ -18,6 +18,7 @@ export default defineConfig([
     "eqeqeq": ["warn", "always"],
     "comma-spacing": ["warn", { after: true }],
     "no-redeclare": "error",
-    "no-unused-vars": "off"
+    "no-undef": "off"
+    // "no-unused-vars": "off"
   }}
 ]);
